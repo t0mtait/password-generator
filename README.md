@@ -5,7 +5,8 @@
 
 HTML, CSS, JS
 
-Generates a random password.
+Generates a random password that can be copied.
+
 
 Options include:
 
