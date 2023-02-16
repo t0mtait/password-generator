@@ -10,9 +10,9 @@ Generates a random password.
 Options include:
 
 LowerCase (required)
-UpperCase
-Numbers
-Symbols
-ExcludeDuplicates
-Spaces
+UpperCase,  
+Numbers,  
+Symbols,  
+ExcludeDuplicates,  
+Spaces, 
 
